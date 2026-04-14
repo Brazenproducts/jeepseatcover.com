@@ -1,63 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://jeepseatcover.com/about.html</loc>
-    <lastmod>2026-04-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://jeepseatcover.com/buyers-guide.html</loc>
-    <lastmod>2026-04-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://jeepseatcover.com/gladiator-jt.html</loc>
-    <lastmod>2026-04-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jeepseatcover.com/grand-cherokee.html</loc>
-    <lastmod>2026-04-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jeepseatcover.com/</loc>
-    <lastmod>2026-04-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://jeepseatcover.com/installation-guide.html</loc>
-    <lastmod>2026-04-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jeepseatcover.com/neoprene-vs-canvas.html</loc>
-    <lastmod>2026-04-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jeepseatcover.com/wrangler-jk.html</loc>
-    <lastmod>2026-04-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jeepseatcover.com/wrangler-jl.html</loc>
-    <lastmod>2026-04-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://jeepseatcover.com/wrangler-tj.html</loc>
-    <lastmod>2026-04-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
+<url><loc>https://jeepseatcover.com/</loc><lastmod>2026-04-13</lastmod><priority>1.0</priority></url>
+<url><loc>https://jeepseatcover.com/wrangler-jl.html</loc><lastmod>2026-04-13</lastmod><priority>0.9</priority></url>
+<url><loc>https://jeepseatcover.com/wrangler-jk.html</loc><lastmod>2026-04-13</lastmod><priority>0.9</priority></url>
+<url><loc>https://jeepseatcover.com/wrangler-tj.html</loc><lastmod>2026-04-13</lastmod><priority>0.8</priority></url>
+<url><loc>https://jeepseatcover.com/gladiator-jt.html</loc><lastmod>2026-04-13</lastmod><priority>0.9</priority></url>
+<url><loc>https://jeepseatcover.com/best-jeep-grab-handles.html</loc><lastmod>2026-04-13</lastmod><priority>0.9</priority></url>
+<url><loc>https://jeepseatcover.com/best-jeep-door-bags.html</loc><lastmod>2026-04-13</lastmod><priority>0.9</priority></url>
+<url><loc>https://jeepseatcover.com/grand-cherokee.html</loc><lastmod>2026-04-13</lastmod><priority>0.7</priority></url>
+<url><loc>https://jeepseatcover.com/neoprene-vs-canvas.html</loc><lastmod>2026-04-13</lastmod><priority>0.7</priority></url>
+<url><loc>https://jeepseatcover.com/installation-guide.html</loc><lastmod>2026-04-13</lastmod><priority>0.6</priority></url>
+<url><loc>https://jeepseatcover.com/buyers-guide.html</loc><lastmod>2026-04-13</lastmod><priority>0.7</priority></url>
+<url><loc>https://jeepseatcover.com/about.html</loc><lastmod>2026-04-13</lastmod><priority>0.5</priority></url>
 </urlset>

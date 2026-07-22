@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://jeepseatcover.com/</loc><priority>1.0</priority></url>
+  <url><loc>https://jeepseatcover.com/</loc><priority>1.0</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://jeepseatcover.com/best-jeep-wrangler-jl-seat-covers.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://jeepseatcover.com/best-jeep-wrangler-jk-seat-covers.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://jeepseatcover.com/best-jeep-wrangler-tj-seat-covers.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://jeepseatcover.com/best-jeep-gladiator-seat-covers.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://jeepseatcover.com/best-jeep-grand-cherokee-seat-covers.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://jeepseatcover.com/best-jeep-cherokee-seat-covers.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://jeepseatcover.com/best-jeep-compass-seat-covers.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
 </urlset>
